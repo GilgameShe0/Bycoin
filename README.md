@@ -12,15 +12,16 @@
 
    首先创建钱包，选择创建多签钱包并设置钱包名称、密码。
    
+
 <img src=".\images\creatWallet.jpg" width="30%" height="30%">	<img src=".\images\config.jpg" width="30%" height="30%">	<img src=".\images\setPwd.jpg" width="30%" height="30%">
-   
+
 创建完成后等待其他用户输入口令加入钱包。
 
    <img src=".\images\password.jpg" width="30%" height="30%">
 
    到此处我们就完成了多签钱包创建的所有流程，另外我们可以在钱包管理处查看钱包信息包括签名构成。
-   
-   <img src=".\images\manager.jpg" style="zoom:50%">
+
+   <img src=".\images\manager.jpg" width="70%" height="70%">
 
 3. 交易发起
 
