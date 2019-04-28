@@ -10,11 +10,15 @@
 
    在([http://bycoin.im](http://bycoin.im/))下载最新版本的Bycoin客户端，目前版本为Bycoin v1.0.6。
 
+   第一步
+
    首先创建钱包，选择创建多签钱包并设置钱包名称、参与者名称、签名总数（允许参与钱包签名的管理者总数）、最小签名数（交易所需的最小签名数）、密码。
 
    <img src=".\images\creatWallet.jpg" width="30%" height="30%">	<img src=".\images\config.jpg" width="30%" height="30%">	<img src=".\images\setPwd.jpg" width="30%" height="30%">
 
-   创建完成后等待其他用户输入口令加入钱包。
+   第二步
+
+   创建完成后等待其他管理者输入口令加入多签钱包。
 
    <img src=".\images\password.jpg" width="30%" height="30%">
 
@@ -28,15 +32,21 @@
 
    <img src=".\images\creatTransaction.jpg" width="30%" height="30%">	<img src=".\images\check.jpg" width="30%" height="30%">	<img src=".\images\sign1.jpg" width="30%" height="30%">
 
-   等待钱包的其余管理者签名确认，交易便可发出。
+   等待钱包的其余管理者签名确认，如其他管理者不批准这笔交易，则可以选择拒绝。
 
-   <img src=".\images\sign2.jpg" width="30%" height="30%">	<img src=".\images\success.jpg" width="30%" height="30%">	<img src=".\images\pakage.jpg" width="30%" height="30%">
-
-
-
+   <img src=".\images\sign2.jpg" width="30%" height="30%">
    
+   - 确认签名，确认签名的数量满足最小签名数时，交易便可成功发出。
+   
+     <img src=".\images\success.jpg" width="30%" height="30%">	<img src=".\images\pakage.jpg" width="30%" height="30%">
+   - 拒绝签名，若最终签名数小于最小签名数时，交易将不能成功发出。
+   
+   <img src=".\images\refuseSign.jpg" width="30%" height="30%">
 
 
 
- 
+
+
+
+
 
