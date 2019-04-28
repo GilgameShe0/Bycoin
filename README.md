@@ -11,11 +11,10 @@
    在([http://bycoin.im](http://bycoin.im/))下载最新版本的Bycoin客户端，目前版本为Bycoin v1.0.6。
 
    首先创建钱包，选择创建多签钱包并设置钱包名称、参与者名称、签名总数（允许参与钱包签名的管理者总数）、最小签名数（交易所需的最小签名数）、密码。
-   
 
-<img src=".\images\creatWallet.jpg" width="30%" height="30%">	<img src=".\images\config.jpg" width="30%" height="30%">	<img src=".\images\setPwd.jpg" width="30%" height="30%">
+   <img src=".\images\creatWallet.jpg" width="30%" height="30%">	<img src=".\images\config.jpg" width="30%" height="30%">	<img src=".\images\setPwd.jpg" width="30%" height="30%">
 
-创建完成后等待其他用户输入口令加入钱包。
+   创建完成后等待其他用户输入口令加入钱包。
 
    <img src=".\images\password.jpg" width="30%" height="30%">
 
