@@ -11,6 +11,7 @@
    在([http://bycoin.im](http://bycoin.im/))下载最新版本的Bycoin客户端，目前版本为Bycoin v1.0.6。
 
    首先创建钱包，选择创建多签钱包并设置钱包名称、密码。
+   ![](.\images\creatWallet.jpg){:height="50%" width="50%"}
 
    <img src=".\images\creatWallet.jpg" style="zoom:20%">	<img src=".\images\config.jpg" style="zoom:20%">	<img src=".\images\setPwd.jpg" style="zoom:20%">
 
